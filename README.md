@@ -30,6 +30,10 @@ The settings menu has six options:
 - Preserve Taskbar: When going borderless, the taskbar will remain visible.
 - Show all clients: Shows all Java apps instead of showing only Minecraft processes.
 
+## Changes from original
+
+- Support for HiDPI
+
 ### Important note on automatic borderless:
 
 Administrator privilages are required for automatic borderless as the app monitors when processes start and stop using Windows Management Instrumentation (WMI).
